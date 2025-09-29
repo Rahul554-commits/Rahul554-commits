@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Shanigarm! 👋
+# Hi, I'm Rahul Shanigarmu! 👋
 
 🚀 **Student | Python & ML Enthusiast | AWS Explorer**
 
