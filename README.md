@@ -17,7 +17,6 @@ I'm passionate about building scalable cloud solutions, automating workflows, an
 
 ### 🏆 Featured Projects
 
-- [File Storage](https://github.com/Rahul554-commits/file-storage): Secure, scalable file management in the cloud
 - [Network Traffic Monitor](https://github.com/Rahul554-commits/network-traffic-monitor): Real-time network analytics for smarter decisions
 - [Sales Incentive Commission Calculator](https://github.com/Rahul554-commits/-Sales-Incentive-Commission-Calculator): Automate incentive calculations for sales teams
 - [AWS Intelligent Chatbot](https://github.com/Rahul554-commits/aws-intelligent-chatbot): Smart chatbot built with AWS services
