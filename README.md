@@ -42,4 +42,3 @@ Find me on [LinkedIn](https://linkedin.com/in/rahul-shanigarm-95411297)
 
 ---
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul554-commits&show_icons=true&theme=radical)
